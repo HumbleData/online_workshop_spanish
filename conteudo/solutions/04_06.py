@@ -16,4 +16,5 @@ print('\treturn (x * 3) + 10\n')
 
 print('f(x) = ', f(4)) # x = 4 is arbitrary. Try with other values.
 
-Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/04_06.py
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/04_06.py')

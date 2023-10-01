@@ -68,4 +68,5 @@ print('df.sort_values("city")\n')
 
 display(df.sort_values("city"))
 
-Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_44.py
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_44.py')

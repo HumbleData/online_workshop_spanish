@@ -19,4 +19,5 @@ print('df = df.drop("Location", axis=1)\n')
 
 df = df.drop("Location", axis=1)
 
-Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_18.py
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_18.py')

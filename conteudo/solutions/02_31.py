@@ -10,4 +10,5 @@ df_4['species'] = df_4['species'].astype('category')
 
 display(df_4.groupby("species").median(numeric_only=True))
 
-Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/02_31.py
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/02_31.py')

@@ -17,4 +17,5 @@ print('df["Location"].unique()\n')
 
 display(df["Location"].unique())
 
-Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_14.py
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_14.py')

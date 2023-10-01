@@ -74,4 +74,5 @@ display(df)
 #      Why? Because if you drop the Country column, it will be removed...so you can't
 #      drop it a second time as the column isn't there to drop!
 
-Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_38.py
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_38.py')

@@ -39,4 +39,5 @@ print('set(df["city"]) - dict_cities.keys()\n')
 display(set(df["city"]) - dict_cities.keys())
 
 
-Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_30.py
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_30.py')

@@ -7,4 +7,5 @@ print('?pd.DataFrame.drop)')
 # You can also use
 # ?pd.DataFrame.drop
 
-Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_12.py
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_12.py')

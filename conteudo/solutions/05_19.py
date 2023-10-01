@@ -21,4 +21,5 @@ print('df["country"].nunique()\n')
 
 display(df["country"].nunique())
 
-Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_19.py
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_19.py')

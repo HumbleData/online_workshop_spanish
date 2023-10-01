@@ -62,4 +62,5 @@ print('df["Attendees"].apply(f)\n')
 display(df["Attendees"].apply(f))
 
 
-Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_35.py
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_35.py')

@@ -35,4 +35,5 @@ df.loc[unknown_city, "city"] = df.loc[unknown_city, "country"].map(dict_capitals
 print('unknown_city = df["city"] == "unknown"')
 print('df.loc[unknown_city, "city"] = df.loc[unknown_city, "country"].map(dict_capitals)')
 
-Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_29.py
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_29.py')

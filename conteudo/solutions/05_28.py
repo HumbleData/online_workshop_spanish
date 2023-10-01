@@ -37,4 +37,5 @@ print('df.loc[df["city"] == "unknown", "country"]\n')
 
 display(df.loc[df["city"] == "unknown", "country"])
 
-Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_28.py
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_28.py')

@@ -21,4 +21,5 @@ print('df[df["country"] == "Portugal"]\n')
 
 display(df[df["country"] == "Portugal"])
 
-Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_23.py
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_23.py')

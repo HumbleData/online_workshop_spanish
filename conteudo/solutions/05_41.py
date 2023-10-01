@@ -73,4 +73,5 @@ print('df[df["DateFrom"] > "2017-02-01"]\n')
 display(df[df["DateFrom"] > "2017-02-01"])
 
 
-Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_41.py
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_41.py')

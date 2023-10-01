@@ -7,4 +7,5 @@ df_4 = df_3.drop_duplicates()
 
 display(df_4.describe())
 
-Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/02_27.py
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/02_27.py')

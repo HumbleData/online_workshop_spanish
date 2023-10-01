@@ -2,4 +2,5 @@ dict_greeting = {'Namibia':'Hallo', 'France':'Bonjour', 'Spain':'Ola', 'UK':'Hel
 
 print(dict_greeting["Italy"])
 
-Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/04_01.py
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/04_01.py')

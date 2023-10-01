@@ -19,4 +19,5 @@ print('df[["city", "country"]] = df["Location"].str.split(pat=";", expand=True)\
 
 display(df)
 
-Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_17.py
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_17.py')

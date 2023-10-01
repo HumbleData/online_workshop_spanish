@@ -74,4 +74,5 @@ print('df["duration"] = df["DateTo"] - df["DateFrom"] + datetime.timedelta(days=
 df["duration"] = df["DateTo"] - df["DateFrom"] + datetime.timedelta(days=1)
 display(df.head())
 
-Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_42.py
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_42.py')
