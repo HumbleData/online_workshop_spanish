@@ -46,3 +46,6 @@ dict_cities.update(
 )
 
 print("dict_cities.update(\n{\n\t\"bristol\": \"United Kingdom\",\n\t\"gothenburg\": \"Sweden\",\n\t\"graz\": \"Austria\",\n\t\"lyon\": \"France\",\n\t \"murcia\": \"Spain\",\n\t \"parma\": \"Italy\",\n},\n)\n")
+
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_31.py')

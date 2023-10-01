@@ -21,3 +21,6 @@ print('df["city"] = df["city"].str.lower()\n')
 
 df["city"] = df["city"].str.lower()
 display(df[df["country"] == "Portugal"])
+
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_24.py')

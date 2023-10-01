@@ -16,3 +16,6 @@ df = df.drop(cols_to_remove, axis=1)
 print('df["Location"].unique()\n')
 
 display(df["Location"].unique())
+
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_14.py')

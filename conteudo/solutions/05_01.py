@@ -9,3 +9,6 @@ print('import pandas as pd')
 
 # solution for the bonus exercise
 # %matplotlib inline 
+
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_01.py')

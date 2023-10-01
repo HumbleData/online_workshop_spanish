@@ -24,3 +24,6 @@ print('df["city"] = df["city"].str.replace(r"/\w*", "", regex=True)\n')
 df["city"] = df["city"].str.replace(r"/\w*", "", regex=True)
 
 # display(df["city"].tail())
+
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_26.py')

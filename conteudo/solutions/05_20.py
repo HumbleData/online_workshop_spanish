@@ -20,3 +20,6 @@ df = df.drop("Location", axis=1)
 print('df["country"].value_counts()\n')
 
 display(df["country"].value_counts())
+
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_20.py')

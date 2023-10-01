@@ -75,3 +75,6 @@ df["month"] = df["DateFrom"].dt.month
 
 print('df.sort_values(["duration", "Attendees"], ascending=[True, False])')
 display(df.sort_values(["duration", "Attendees"], ascending=[True, False]))
+
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_45.py')

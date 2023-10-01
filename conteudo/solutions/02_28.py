@@ -9,3 +9,6 @@ df_4 = df_3.drop_duplicates()
 df_4['species'] = df_4['species'].astype('category')
 
 display(df_4.dtypes)
+
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/02_28.py')

@@ -8,3 +8,6 @@ df_4 = df_3.drop_duplicates()
 df_4['species'] = df_4['species'].astype('category')
 
 df_4.to_csv("../data/Penguins/my_penguins.csv")
+
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/02_32.py')

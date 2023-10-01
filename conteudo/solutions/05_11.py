@@ -12,3 +12,6 @@ df = df.reset_index()
 print('df.info\n')
 
 display(df.info())
+
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_11.py')

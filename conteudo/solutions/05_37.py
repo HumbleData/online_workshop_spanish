@@ -66,3 +66,6 @@ df = df.merge(languages, how="left", left_on="country", right_on="Country")
 
 print('df = df.merge(languages, how="left", left_on="country", right_on="Country")\n')
 display(df)
+
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_37.py')

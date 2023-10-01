@@ -20,3 +20,6 @@ df = df.drop("Location", axis=1)
 print('df["country"].nunique()')
 
 display(df["country"].nunique())
+
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_22.py')

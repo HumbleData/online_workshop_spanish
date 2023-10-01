@@ -9,3 +9,6 @@ def is_greeting(s):
 
 
 help(is_greeting)
+
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/04_05.py')

@@ -10,3 +10,6 @@ df = pd.concat(frames)
 
 print('frames = [df_2014, df_2015, df_2016]')
 print('df = pd.concat(frames)')
+
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_07.py')

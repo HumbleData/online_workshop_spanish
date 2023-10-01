@@ -21,3 +21,6 @@ print('df["country"] = df["country"].str.strip()\ndf["city"] = df["city"].str.st
 
 df["country"] = df["country"].str.strip()
 df["city"] = df["city"].str.strip()
+
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_21.py')

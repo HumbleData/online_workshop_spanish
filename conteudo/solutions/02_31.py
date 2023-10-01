@@ -9,3 +9,6 @@ df_4 = df_3.drop_duplicates()
 df_4['species'] = df_4['species'].astype('category')
 
 display(df_4.groupby("species").median(numeric_only=True))
+
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/02_31.py')

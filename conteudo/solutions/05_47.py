@@ -78,3 +78,6 @@ df_gr = df.groupby("city")
 
 print('df_gr["Attendees"].mean()')
 display(df_gr["Attendees"].mean())
+
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_47.py')

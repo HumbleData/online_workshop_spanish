@@ -67,3 +67,6 @@ df = df.merge(languages, how="left", left_on="country", right_on="Country")
 print('df.sort_values("city")\n')
 
 display(df.sort_values("city"))
+
+
+print('Solucion (código crudo): https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_44.py')
