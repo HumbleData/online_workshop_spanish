@@ -77,3 +77,5 @@ print('df["month"].hist()\n')
 df["month"] = df["DateFrom"].dt.month
 # display(df)
 display(df["month"].hist())
+
+Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_43.py

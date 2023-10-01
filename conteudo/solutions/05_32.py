@@ -50,3 +50,5 @@ df.loc[null_country, "country"] = df.loc[null_country, "city"].map(dict_cities)
 
 print('null_country = df["country"].isnull()')
 print('df.loc[null_country, "country"] = df.loc[null_country, "city"].map(dict_cities)')
+
+Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_32.py

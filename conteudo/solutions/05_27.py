@@ -34,3 +34,5 @@ country_in_codes = df["country"].isin(dict_codes.keys())
 df.loc[country_in_codes, "country"] = df.loc[country_in_codes, "country"].map(dict_codes)
 
 print('df.loc[country_in_codes, "country"] = df.loc[country_in_codes, "country"].map(dict_codes)')
+
+Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_27.py

@@ -18,3 +18,5 @@ df[["city", "country"]] = df["Location"].str.split(pat=";", expand=True)
 print('df = df.drop("Location", axis=1)\n')
 
 df = df.drop("Location", axis=1)
+
+Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_18.py

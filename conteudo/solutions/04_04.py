@@ -10,3 +10,5 @@ elif z % 3 == 0:
     print("data")
 else:
     print("Why?")
+
+Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/04_04.py

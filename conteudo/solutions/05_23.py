@@ -20,3 +20,5 @@ df = df.drop("Location", axis=1)
 print('df[df["country"] == "Portugal"]\n')
 
 display(df[df["country"] == "Portugal"])
+
+Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_23.py

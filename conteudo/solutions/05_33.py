@@ -51,3 +51,5 @@ df.loc[null_country, "country"] = df.loc[null_country, "city"].map(dict_cities)
 print('df["country"].value_counts(dropna=False)\n')
 
 display(df["country"].value_counts(dropna=False))
+
+Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_33.py

@@ -15,3 +15,5 @@ df.index
 
 print('df.reset_index()\ndf.index\n')
 display(df.index)
+
+Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_10.py

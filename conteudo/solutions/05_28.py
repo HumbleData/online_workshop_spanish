@@ -36,3 +36,5 @@ df.loc[country_in_codes, "country"] = df.loc[country_in_codes, "country"].map(di
 print('df.loc[df["city"] == "unknown", "country"]\n')
 
 display(df.loc[df["city"] == "unknown", "country"])
+
+Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_28.py

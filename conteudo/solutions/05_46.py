@@ -77,3 +77,6 @@ df.sort_values(["duration", "Attendees"], ascending=[True, False])
 print('df_gr = df.groupby("city")')
 df_gr = df.groupby("city")
 
+
+
+Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_46.py

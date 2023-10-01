@@ -16,3 +16,5 @@ df = df.drop(cols_to_remove, axis=1)
 print('df["Location"].str.split(pat=";", expand=True)\n')
 
 display(df["Location"].str.split(pat=";", expand=True))
+
+Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_16.py

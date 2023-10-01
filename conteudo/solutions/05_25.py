@@ -22,3 +22,5 @@ df["city"] = df["city"].str.lower()
 print('df["city"][df["city"].str.contains("/")]\n')
 
 display(df["city"][df["city"].str.contains("/")])
+
+Solucion aca: https://raw.githubusercontent.com/HumbleData/online_workshop_spanish/main/conteudo/solutions/05_25.py
